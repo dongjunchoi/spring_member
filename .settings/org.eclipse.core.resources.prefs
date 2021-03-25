@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/kr/or/ddit/filter/SessionCheckFilter.java=UTF-8
+encoding//src/main/java/kr/or/ddit/user/model/UserVo.java=UTF-8
+encoding//src/main/java/kr/or/ddit/user/web/UserController.java=UTF-8
+encoding//src/main/java/kr/or/ddit/view/FileDownloadView.java=UTF-8
+encoding//src/test/java/kr/or/ddit/user/web/UserControllerTest.java=UTF-8
